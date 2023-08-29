@@ -28,7 +28,7 @@ Now Here It Gets TrickyL:
 
     After Then Install git beacuse Vim-plug require git to run
 
-    and then Install Nerd Font
+    and then Install Nerd Font From here => https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.0.2
 
     and copy the init file
 
